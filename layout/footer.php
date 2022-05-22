@@ -4,7 +4,7 @@
       <div class="col-lg-12">
         <ul class="social-icons">
       
-          <li><a href="https://github.com/chaosagex/blog">Github link</a></li>
+          <li><a href="https://github.com/chaosagex/Student_Affairs">Github link</a></li>
         </ul>
       </div>
       <div class="col-lg-12">
